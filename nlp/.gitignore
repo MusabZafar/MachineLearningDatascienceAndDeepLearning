@@ -1,0 +1,6 @@
+
+componentsOflangchain/venv/
+componentsOflangchain/__pycache__/
+componentsOflangchain/.ipynb_checkpoints/
+
+.env
